@@ -34,4 +34,5 @@ Note:Significant memory is required for execution; it is recommended to have 128
 3.The performance of a single model is often limited by its structure and parameters. To further enhance the accuracy of predictions, we decided to employ model fusion on the aforementioned model. Specifically, we combined the prediction results of multiple models through weighted fusion, then sorted and output these results. This strategy effectively reduces the model's bias and enhances its robustness. 
 
 4.In the competition, we made full use of the allotted time, managing the competition's pace effectively; we engaged in active discussions, devised a reasonable model iteration plan for the competition, and organized brainstorming sessions to advance the competition's progress. Meanwhile, everyone embarked on the model development work, ensuring to enhance the prediction accuracy as much as possible. 
+![image](https://github.com/kaamava/kaggle-Google-AI-Comp/assets/106901273/68c418b1-75a6-4309-938a-93b97e37ce3e)
 
